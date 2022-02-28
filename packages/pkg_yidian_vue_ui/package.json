@@ -1,5 +1,5 @@
 {
-  "name": "pkg_yidian_vue_ui",
+  "name": "@tencent/pkg_yidian_vue_ui",
   "version": "0.0.10087",
   "description": "> TODO: description",
   "author": "arvinlin <arvinlin@tencent.com>",
@@ -23,5 +23,5 @@
     "polyfill": "^0.1.0",
     "vue": "^3.2.31"
   },
-  "gitHead": "0b146d7959045b6279ba3723856343b02d57914a"
+  "gitHead": "9a92644c5559a646821b17c655c485518d095db2"
 }
