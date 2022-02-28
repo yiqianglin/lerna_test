@@ -22,6 +22,8 @@
   "dependencies": {
     "@babel/core": "^7.17.5",
     "axios": "^0.26.0",
-    "pkg_yidian_vue_ui": "^0.0.1"
-  }
+    "pkg_yidian_vue_ui": "^0.0.1",
+    "polyfill": "^0.1.0"
+  },
+  "gitHead": "38f61ae85454fd6158e636f2e6253d456b7855ec"
 }

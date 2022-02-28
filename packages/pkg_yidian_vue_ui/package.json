@@ -20,6 +20,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
+    "polyfill": "^0.1.0",
     "vue": "^3.2.31"
-  }
+  },
+  "gitHead": "38f61ae85454fd6158e636f2e6253d456b7855ec"
 }
