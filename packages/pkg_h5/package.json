@@ -1,6 +1,6 @@
 {
   "name": "pkg_h5",
-  "version": "0.0.10086",
+  "version": "0.0.10087",
   "description": "> TODO: description",
   "author": "arvinlin <arvinlin@tencent.com>",
   "homepage": "",
@@ -22,7 +22,7 @@
   "dependencies": {
     "@babel/core": "^7.17.5",
     "axios": "^0.26.0",
-    "pkg_yidian_vue_ui": "^0.0.10086",
+    "pkg_yidian_vue_ui": "^0.0.10087",
     "polyfill": "^0.1.0"
   },
   "gitHead": "0b146d7959045b6279ba3723856343b02d57914a"
